@@ -96,7 +96,7 @@ const Tictactoe = () => {
   }, []);
   return (
     <div className="container">
-      <h1 style={{ color: "white" }}>Tictactoe2</h1>
+      <h1 style={{ color: "white" }}>Tictactoe3</h1>
       <div className="row">
         <Cell num={0} className="border-top-left" />
         <Cell num={1} className="border-top" />
